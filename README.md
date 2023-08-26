@@ -1,4 +1,4 @@
-- 👋 Hi, this an account to record my studying journey.
+- 👋 Hi, this is an account to record my studying journey.
 - 👀 I’m interested in NLP, language models and all DL techniques.
 - 🌱 I’m currently digesting source code of transformer git repo.
 - 💞️ I’m looking to collaborate on ML-based projects.
